@@ -14,4 +14,3 @@ jobs:
           cargo check
           cargo test
           cargo build --release
-        working-directory: tests
